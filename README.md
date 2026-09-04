@@ -1,2 +1,2 @@
 # holbertonschool-binary_trees
-This repository is about Holberton's C - Binary Trees lesson.
+This repository contains exercises about Holberton's C - Binary Trees lesson.
